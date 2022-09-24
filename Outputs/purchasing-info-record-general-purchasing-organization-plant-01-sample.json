@@ -1,0 +1,47 @@
+{
+	"cursor": "/Users/latona2/bitbucket/sap-api-integrations-purchasing-info-record-creates/SAP_API_Caller/caller.go#L59",
+	"function": "sap-api-integrations-purchasing-info-record-creates/SAP_API_Caller.(*SAPAPICaller).GeneralPurchasingOrganizationPlant",
+	"level": "INFO",
+	"message": {
+		"PurchasingInfoRecord": "5300000003",
+		"Supplier": "100000",
+		"Material": "75",
+		"SupplierMaterialNumber": "",
+		"SupplierRespSalesPersonName": "",
+		"SupplierPhoneNumber": "",
+		"SupplierMaterialGroup": "",
+		"IsRegularSupplier": null,
+		"Manufacturer": "",
+		"PurchasingInfoRecordDesc": "",
+		"to_PurgInfoRecdOrgPlantData": {
+			"results": [
+				{
+					"PurchasingInfoRecord": "",
+					"PurchasingInfoRecordCategory": "",
+					"PurchasingOrganization": "0001",
+					"Plant": "0001",
+					"Supplier": "100000",
+					"Material": "75",
+					"MaterialGroup": "",
+					"PurgDocOrderQuantityUnit": "",
+					"PurchasingGroup": "",
+					"StandardPurchaseOrderQuantity": "1",
+					"MaterialPlannedDeliveryDurn": "5",
+					"UnlimitedOverdeliveryIsAllowed": null,
+					"LastReferencingPurchaseOrder": "",
+					"LastReferencingPurOrderItem": "",
+					"PurchaseOrderPriceUnit": "",
+					"InvoiceIsGoodsReceiptBased": null,
+					"TaxCode": "",
+					"IncotermsClassification": "",
+					"IsRelevantForAutomSrcg": "",
+					"IsEvaluatedRcptSettlmtAllowed": null,
+					"IsPurOrderAllwdForInbDeliv": null,
+					"IsOrderAcknRqd": null,
+					"IsMarkedForDeletion": null
+				}
+			]
+		}
+	},
+	"time": "2022-09-25T08:49:08+09:00"
+}
